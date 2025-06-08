@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Full Stack Web Development",
+      "slug": "full-stack-web-development",
+      "description": "Master frontend and backend development using HTML, CSS, JavaScript, React, Node.js, and MongoDB.",
+      "price": 199.99,
+      "instructor": "Rahul Mehta",
+      "isFeatured": true,
+      "image": "/courses/fullstack.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Data Analysis with Python",
+      "slug": "data-analysis-python",
+      "description": "Learn to analyze and visualize data using Python, Pandas, NumPy, and Matplotlib.",
+      "price": 179.99,
+      "instructor": "Priya Sharma",
+      "isFeatured": true,
+      "image": "/courses/data-analysis.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Machine Learning & AI",
+      "slug": "machine-learning-ai",
+      "description": "Build intelligent systems with supervised and unsupervised learning using Python and scikit-learn.",
+      "price": 249.99,
+      "instructor": "Amit Verma",
+      "isFeatured": true,
+      "image": "/courses/ml-ai.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Cloud Computing with AWS",
+      "slug": "cloud-computing-aws",
+      "description": "Get hands-on with AWS services like EC2, S3, Lambda, and deploy cloud-native applications.",
+      "price": 229.99,
+      "instructor": "Neha Kapoor",
+      "isFeatured": false,
+      "image": "/courses/aws.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Cyber Security Essentials",
+      "slug": "cyber-security-essentials",
+      "description": "Understand threats, vulnerabilities, and protection mechanisms in the digital world.",
+      "price": 189.99,
+      "instructor": "Kunal Singh",
+      "isFeatured": false,
+      "image": "/courses/cyber-security.jpg"
+    },
+    {
+      "id": 6,
+      "title": "DevOps & CI/CD",
+      "slug": "devops-ci-cd",
+      "description": "Learn DevOps practices and tools like Docker, Jenkins, Kubernetes, and GitHub Actions.",
+      "price": 219.99,
+      "instructor": "Sonia Das",
+      "isFeatured": true,
+      "image": "/courses/devops.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Frontend Development with React",
+      "slug": "frontend-react",
+      "description": "Build dynamic UIs with React, hooks, context API, and component-driven architecture.",
+      "price": 169.99,
+      "instructor": "Ravi Chauhan",
+      "isFeatured": false,
+      "image": "/courses/react.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Backend Development with Node.js",
+      "slug": "backend-nodejs",
+      "description": "Create robust APIs using Node.js, Express, and integrate with MongoDB.",
+      "price": 159.99,
+      "instructor": "Sneha Iyer",
+      "isFeatured": false,
+      "image": "/courses/nodejs.jpg"
+    },
+    {
+      "id": 9,
+      "title": "SQL & Database Management",
+      "slug": "sql-database-management",
+      "description": "Master relational databases with SQL queries, normalization, indexing, and joins.",
+      "price": 149.99,
+      "instructor": "Manoj Reddy",
+      "isFeatured": false,
+      "image": "/courses/sql.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Career Readiness & Interview Prep",
+      "slug": "career-readiness",
+      "description": "Enhance your soft skills, resume, and prepare for tech interviews with mock sessions.",
+      "price": 99.99,
+      "instructor": "Deepika Joshi",
+      "isFeatured": true,
+      "image": "/courses/career-prep.jpg"
+    }
+  ]
+}
