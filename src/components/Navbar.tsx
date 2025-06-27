@@ -45,9 +45,9 @@ export default function Navbar({ className }: { className?: string }) {
       {/* Company Logo and Title */}
       <div className="text-center mb-2  py-2 rounded-md">
         <Link href="/" className="inline-flex items-center space-x-2">
-          <img src="/skilling-logo.png" alt="logo" className="w-8 h-8" />
+          <img src="/tagtech-1.png" alt="logo" className="w-8 h-8" />
           <h1 className="text-xl md:text-2xl font-extrabold text-white tracking-tight">
-            <span className="text-teal-400">Skilling</span>Bharat
+            <span className="text-teal-400">TagTech</span> Digi
           </h1>
         </Link>
       </div>

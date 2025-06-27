@@ -51,7 +51,7 @@ function Footer() {
           <h2 className="text-white text-lg font-semibold mb-4">Follow Us</h2>
           <div className="flex space-x-4">
             <a
-              href="#"
+              href="https://www.facebook.com/share/19vGtDq7EC/?mibextid=wwXIfr"
               className="hover:text-white transition-colors duration-300"
             >
               Facebook
@@ -63,7 +63,7 @@ function Footer() {
               Twitter
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/company/tagtech-digi/"
               className="hover:text-white transition-colors duration-300"
             >
               LinkedIn
@@ -72,10 +72,9 @@ function Footer() {
         </div>
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
-          <p>Sector 62, Noida, Uttar Pradesh, India</p>
-          <p>Pincode: 201309</p>
+          <p>Tower M 19098, 14th Avenue Gaur City 2, Greater Noida West</p>
           <p>Email: info@yourtechtraining.com</p>
-          <p>Phone: +91 98765 43210</p>
+          <p>Phone: +91 8207753918</p>
         </div>
       </div>
       <p className="text-center text-xs pt-8">
