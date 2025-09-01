@@ -72,7 +72,7 @@ function Footer() {
         </div>
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
-          <p>Tower M 19098, 14th Avenue Gaur City 2, Greater Noida West</p>
+          
           <p>Email: info@yourtechtraining.com</p>
           <p>Phone: +91 8207753918</p>
         </div>
